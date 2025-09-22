@@ -200,7 +200,7 @@ document.addEventListener('DOMContentLoaded', function() {
         // Initialize particles
         const ctx = canvas.getContext('2d');
         const particles = [];
-        const particleCount = 250;
+        const particleCount = 200;
         
         // Create particles
         for (let i = 0; i < particleCount; i++) {

@@ -94,7 +94,7 @@ input:checked + .slider:before {
 }
 
 .slider .sun {
-    left: 6px;
+    left: 4px;
     top: 4px;
     color: #f1c40f;
     transition: .4s;
@@ -102,9 +102,9 @@ input:checked + .slider:before {
 }
 
 .slider .moon {
-    right: 6px;
+    right: 4px;
     top: 4px;
-    color: #f0f0f0;
+    color: #0a0909;
     transition: .4s;
     opacity: 0;
 }

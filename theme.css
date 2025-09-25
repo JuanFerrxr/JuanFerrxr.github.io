@@ -1,8 +1,8 @@
 /* Theme Variables */
 :root {
     /* Light Theme (Default) */
-    --primary-color: #254f8d;
-    --secondary-color: #588fe5;
+    --primary-color: #4E9735;
+    --secondary-color: #84cc6c;
     --text-color: #333;
     --light-text: #777;
     --background: #fff;
@@ -15,8 +15,8 @@
 
 /* Dark Theme */
 [data-theme="dark"] {
-    --primary-color: #4f85e3;
-    --secondary-color: #a8e7e3;
+    --primary-color: #67BF4A;
+    --secondary-color: #B3DFA4;
     --text-color: #f0f0f0;
     --light-text: #aaaaaa;
     --background: #121212;

@@ -210,7 +210,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 radius: Math.random() * 3 + 1,
                 speedX: Math.random() * 1 - 0.5,
                 speedY: Math.random() * 1 - 0.5,
-                color: `rgba(67, 97, 238, ${Math.random() * 0.5 + 0.1})`
+                color: `rgba(132, 204, 108, ${Math.random() * 0.5 + 0.1})`
             });
         }
         
